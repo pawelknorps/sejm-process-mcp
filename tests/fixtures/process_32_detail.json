@@ -1,0 +1,198 @@
+{
+ "ELI": "DU/2024/1243",
+ "UE": "NO",
+ "address": "WDU20240001243",
+ "changeDate": "2024-08-21T10:07:00",
+ "closureDate": "2024-07-26",
+ "comments": "Obywatelski projekt ustawy został wniesiony w IX kadencji Sejmu (druk nr 3292). Na podstawie art. 4. ust. 3 ustawy o wykonywaniu inicjatywy ustawodawczej przez obywateli - projekt ustawy, w stosunku do którego postępowanie ustawodawcze nie zostało zakończone w trakcie kadencji Sejmu, w której został wniesiony, jest rozpatrywany przez Sejm następnej kadencji.",
+ "description": "projekt dotyczy wprowadzenia nowej reguły zbiegu prawa do nabytej z tytułu bycia wdową lub wdowcem renty rodzinnej, wojskowej renty rodzinnej, policyjnej renty rodzinnej lub renty rodzinnej z ubezpieczenia społecznego rolników z innymi świadczeniami emerytalno-rentowymi",
+ "displayAddress": "Dz.U. 2024 poz. 1243",
+ "documentDate": "2023-11-20",
+ "documentType": "projekt ustawy",
+ "documentTypeEnum": "BILL",
+ "legislativeCommittee": false,
+ "links": [
+  {
+   "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001243",
+   "rel": "isap"
+  },
+  {
+   "href": "https://eli.gov.pl/eli/DU/2024/1243/ogl",
+   "rel": "eli"
+  },
+  {
+   "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1243",
+   "rel": "eli-api"
+  }
+ ],
+ "number": "32",
+ "passed": true,
+ "principleOfSubsidiarity": false,
+ "processStartDate": "2023-04-11",
+ "shortenProcedure": false,
+ "stages": [
+  {
+   "date": "2023-04-11",
+   "printNumber": "32",
+   "stageName": "Projekt wpłynął do Sejmu",
+   "stageType": "Start"
+  },
+  {
+   "children": [
+    {
+     "committeeCode": "Sejm",
+     "date": "2023-11-20",
+     "stageName": "Skierowanie",
+     "stageType": "Referral",
+     "type": "NORMAL"
+    }
+   ],
+   "date": "2023-11-20",
+   "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+   "stageType": "ReadingReferral"
+  },
+  {
+   "children": [
+    {
+     "committeeCode": "PSR",
+     "date": "2024-02-07",
+     "stageName": "Skierowanie",
+     "stageType": "Referral",
+     "type": "NORMAL"
+    }
+   ],
+   "date": "2024-02-07",
+   "sittingNum": 5,
+   "stageName": "I czytanie na posiedzeniu Sejmu",
+   "stageType": "SejmReading"
+  },
+  {
+   "children": [
+    {
+     "date": "2024-06-27",
+     "minorityMotions": 8,
+     "printNumber": "503",
+     "proposal": "załączony projekt ustawy",
+     "rapporteurID": "402",
+     "rapporteurName": "Katarzyna Ueberhan",
+     "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/503/503.pdf",
+     "stageName": "Sprawozdanie komisji",
+     "stageType": "CommitteeReport",
+     "subCommittee": false
+    }
+   ],
+   "date": "2024-06-27",
+   "stageName": "Praca w komisjach po I czytaniu",
+   "stageType": "CommitteeWork"
+  },
+  {
+   "date": "2024-07-24",
+   "stageName": "Wpłynęło stanowisko rządu",
+   "stageType": "GovermentPosition",
+   "title": "Stanowisko Rządu do druku nr 32"
+  },
+  {
+   "children": [
+    {
+     "committeeCode": "PSR",
+     "date": "2024-07-25",
+     "stageName": "Skierowanie",
+     "stageType": "Referral",
+     "type": "NORMAL"
+    }
+   ],
+   "comment": "poprawki",
+   "date": "2024-07-25",
+   "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+   "sittingNum": 16,
+   "stageName": "II czytanie na posiedzeniu Sejmu",
+   "stageType": "SejmReading"
+  },
+  {
+   "children": [
+    {
+     "date": "2024-07-26",
+     "minorityMotions": 0,
+     "printNumber": "503-A",
+     "proposal": "odrzucić poprawki",
+     "rapporteurID": "402",
+     "rapporteurName": "Katarzyna Ueberhan",
+     "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/503-A/503-A.pdf",
+     "stageName": "Sprawozdanie komisji",
+     "stageType": "CommitteeReport",
+     "subCommittee": false
+    }
+   ],
+   "date": "2024-07-26",
+   "stageName": "Praca w komisjach po II czytaniu",
+   "stageType": "CommitteeWork"
+  },
+  {
+   "children": [
+    {
+     "date": "2024-07-26",
+     "stageName": "Głosowanie",
+     "stageType": "Voting",
+     "voting": {
+      "abstain": 12,
+      "date": "2024-07-26T18:02:25",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+       {
+        "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/63/pdf",
+        "rel": "pdf"
+       }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o obywatelskim projekcie ustawy o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw w celu wprowadzenia renty wdowiej (druki nr 32, 503 i 503-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 439,
+      "votingNumber": 63,
+      "yes": 425
+     }
+    }
+   ],
+   "comment": "wnioski mniejszości, poprawki",
+   "date": "2024-07-26",
+   "decision": "uchwalono",
+   "sittingNum": 16,
+   "stageName": "III czytanie na posiedzeniu Sejmu",
+   "stageType": "SejmReading",
+   "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/32/attachment/32_u3.pdf"
+  },
+  {
+   "date": "2024-07-31",
+   "position": "nie wniósł poprawek",
+   "stageName": "Stanowisko Senatu",
+   "stageType": "SenatePosition"
+  },
+  {
+   "date": "2024-08-02",
+   "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+   "stageType": "ToPresident"
+  },
+  {
+   "date": "2024-08-09",
+   "omittedInconsistent": false,
+   "stageName": "Prezydent podpisał ustawę",
+   "stageType": "PresidentSignature"
+  },
+  {
+   "stageName": "Uchwalono",
+   "stageType": "End"
+  }
+ ],
+ "term": 10,
+ "title": "Obywatelski projekt ustawy o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw w celu wprowadzenia renty wdowiej",
+ "titleFinal": "o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw",
+ "urgencyStatus": "NORMAL",
+ "webGeneratedDate": "2024-08-21T10:07:08"
+}

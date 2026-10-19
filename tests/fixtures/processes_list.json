@@ -1,0 +1,145 @@
+[
+ {
+  "ELI": "MP/2023/1261",
+  "UE": "NO",
+  "address": "WMP20230001261",
+  "changeDate": "2023-11-14T11:44:49",
+  "closureDate": "2023-11-13",
+  "displayAddress": "M.P. 2023 poz. 1261",
+  "documentDate": "2023-11-13",
+  "documentType": "projekt uchwały",
+  "documentTypeEnum": "DRAFT_RESOLUTION",
+  "links": [
+   {
+    "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WMP20230001261",
+    "rel": "isap"
+   },
+   {
+    "href": "https://eli.gov.pl/eli/MP/2023/1261/ogl",
+    "rel": "eli"
+   },
+   {
+    "href": "https://api.sejm.gov.pl/eli/acts/MP/2023/1261",
+    "rel": "eli-api"
+   }
+  ],
+  "number": "1",
+  "passed": true,
+  "printsConsideredJointly": [
+   "2"
+  ],
+  "processStartDate": "2023-11-13",
+  "shortenProcedure": false,
+  "term": 10,
+  "title": "Poselski projekt uchwały w sprawie ustalenia liczby wicemarszałków Sejmu Rzeczypospolitej Polskiej",
+  "titleFinal": "w sprawie ustalenia liczby wicemarszałków Sejmu",
+  "urgencyStatus": "NORMAL",
+  "webGeneratedDate": "2023-11-21T14:58:49"
+ },
+ {
+  "ELI": "MP/2023/1261",
+  "UE": "NO",
+  "address": "WMP20230001261",
+  "changeDate": "2023-11-14T11:44:49",
+  "closureDate": "2023-11-13",
+  "displayAddress": "M.P. 2023 poz. 1261",
+  "documentDate": "2023-11-13",
+  "documentType": "projekt uchwały",
+  "documentTypeEnum": "DRAFT_RESOLUTION",
+  "links": [
+   {
+    "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WMP20230001261",
+    "rel": "isap"
+   },
+   {
+    "href": "https://eli.gov.pl/eli/MP/2023/1261/ogl",
+    "rel": "eli"
+   },
+   {
+    "href": "https://api.sejm.gov.pl/eli/acts/MP/2023/1261",
+    "rel": "eli-api"
+   }
+  ],
+  "number": "2",
+  "passed": true,
+  "printsConsideredJointly": [
+   "1"
+  ],
+  "processStartDate": "2023-11-13",
+  "shortenProcedure": false,
+  "term": 10,
+  "title": "Poselski projekt uchwały w sprawie ustalenia liczby wicemarszałków Sejmu Rzeczypospolitej Polskiej",
+  "titleFinal": "w sprawie ustalenia liczby wicemarszałków Sejmu",
+  "urgencyStatus": "NORMAL",
+  "webGeneratedDate": "2023-11-21T14:59:01"
+ },
+ {
+  "ELI": "MP/2023/1264",
+  "UE": "NO",
+  "address": "WMP20230001264",
+  "changeDate": "2023-11-21T15:00:34",
+  "closureDate": "2023-11-13",
+  "displayAddress": "M.P. 2023 poz. 1264",
+  "documentDate": "2023-11-13",
+  "documentType": "lista kandydatów",
+  "links": [
+   {
+    "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WMP20230001264",
+    "rel": "isap"
+   },
+   {
+    "href": "https://eli.gov.pl/eli/MP/2023/1264/ogl",
+    "rel": "eli"
+   },
+   {
+    "href": "https://api.sejm.gov.pl/eli/acts/MP/2023/1264",
+    "rel": "eli-api"
+   }
+  ],
+  "number": "3",
+  "passed": true,
+  "processStartDate": "2023-11-13",
+  "shortenProcedure": false,
+  "term": 10,
+  "title": "Kandydat na stanowisko Wicemarszałka Sejmu RP - poseł Krzysztof Bosak",
+  "titleFinal": "w sprawie wyboru wicemarszałka Sejmu",
+  "urgencyStatus": "NORMAL",
+  "webGeneratedDate": "2023-11-21T15:00:45"
+ },
+ {
+  "ELI": "DU/2024/1243",
+  "UE": "NO",
+  "address": "WDU20240001243",
+  "changeDate": "2024-08-21T10:07:00",
+  "closureDate": "2024-07-26",
+  "comments": "Obywatelski projekt ustawy został wniesiony w IX kadencji Sejmu (druk nr 3292). Na podstawie art. 4. ust. 3 ustawy o wykonywaniu inicjatywy ustawodawczej przez obywateli - projekt ustawy, w stosunku do którego postępowanie ustawodawcze nie zostało zakończone w trakcie kadencji Sejmu, w której został wniesiony, jest rozpatrywany przez Sejm następnej kadencji.",
+  "description": "projekt dotyczy wprowadzenia nowej reguły zbiegu prawa do nabytej z tytułu bycia wdową lub wdowcem renty rodzinnej, wojskowej renty rodzinnej, policyjnej renty rodzinnej lub renty rodzinnej z ubezpieczenia społecznego rolników z innymi świadczeniami emerytalno-rentowymi",
+  "displayAddress": "Dz.U. 2024 poz. 1243",
+  "documentDate": "2023-11-20",
+  "documentType": "projekt ustawy",
+  "documentTypeEnum": "BILL",
+  "links": [
+   {
+    "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001243",
+    "rel": "isap"
+   },
+   {
+    "href": "https://eli.gov.pl/eli/DU/2024/1243/ogl",
+    "rel": "eli"
+   },
+   {
+    "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1243",
+    "rel": "eli-api"
+   }
+  ],
+  "number": "32",
+  "passed": true,
+  "processStartDate": "2023-04-11",
+  "shortenProcedure": false,
+  "term": 10,
+  "title": "Obywatelski projekt ustawy o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw w celu wprowadzenia renty wdowiej",
+  "titleFinal": "o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw",
+  "urgencyStatus": "NORMAL",
+  "webGeneratedDate": "2024-08-21T10:07:08"
+ }
+]

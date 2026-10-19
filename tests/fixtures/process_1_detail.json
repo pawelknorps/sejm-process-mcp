@@ -1,0 +1,99 @@
+{
+ "ELI": "MP/2023/1261",
+ "UE": "NO",
+ "address": "WMP20230001261",
+ "changeDate": "2023-11-14T11:44:49",
+ "closureDate": "2023-11-13",
+ "displayAddress": "M.P. 2023 poz. 1261",
+ "documentDate": "2023-11-13",
+ "documentType": "projekt uchwały",
+ "documentTypeEnum": "DRAFT_RESOLUTION",
+ "legislativeCommittee": false,
+ "links": [
+  {
+   "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WMP20230001261",
+   "rel": "isap"
+  },
+  {
+   "href": "https://eli.gov.pl/eli/MP/2023/1261/ogl",
+   "rel": "eli"
+  },
+  {
+   "href": "https://api.sejm.gov.pl/eli/acts/MP/2023/1261",
+   "rel": "eli-api"
+  }
+ ],
+ "number": "1",
+ "passed": true,
+ "principleOfSubsidiarity": false,
+ "printsConsideredJointly": [
+  "2"
+ ],
+ "processStartDate": "2023-11-13",
+ "shortenProcedure": false,
+ "stages": [
+  {
+   "date": "2023-11-13",
+   "printNumber": "1",
+   "stageName": "Projekt wpłynął do Sejmu",
+   "stageType": "Start"
+  },
+  {
+   "children": [
+    {
+     "committeeCode": "Sejm",
+     "date": "2023-11-13",
+     "stageName": "Skierowanie",
+     "stageType": "Referral",
+     "type": "NORMAL"
+    }
+   ],
+   "date": "2023-11-13",
+   "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+   "stageType": "ReadingReferral"
+  },
+  {
+   "children": [
+    {
+     "date": "2023-11-13",
+     "stageName": "Głosowanie",
+     "stageType": "Voting",
+     "voting": {
+      "abstain": 0,
+      "date": "2023-11-13T18:02:12",
+      "description": "w sprawie ustalenia liczby wicemarszałków Sejmu",
+      "kind": "ELECTRONIC",
+      "links": [
+       {
+        "href": "https://api.sejm.gov.pl/sejm/term10/votings/1/2/pdf",
+        "rel": "pdf"
+       }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 2,
+      "present": 0,
+      "sitting": 1,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 2 Poselskie projekty uchwał w sprawie ustalenia liczby Wicemarszałków Sejmu RP (druki nr 1 i 2)",
+      "totalVoted": 458,
+      "votingNumber": 2,
+      "yes": 458
+     }
+    }
+   ],
+   "date": "2023-11-13",
+   "decision": "podjęto uchwałę",
+   "sittingNum": 1,
+   "stageName": "I czytanie na posiedzeniu Sejmu",
+   "stageType": "SejmReading"
+  }
+ ],
+ "term": 10,
+ "title": "Poselski projekt uchwały w sprawie ustalenia liczby wicemarszałków Sejmu Rzeczypospolitej Polskiej",
+ "titleFinal": "w sprawie ustalenia liczby wicemarszałków Sejmu",
+ "urgencyStatus": "NORMAL",
+ "webGeneratedDate": "2023-11-21T14:58:49"
+}
